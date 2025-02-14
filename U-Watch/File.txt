@@ -1,0 +1,4 @@
+<key>NSHealthShareUsageDescription</key>
+<string>This app uses HealthKit to read your heart rate, step count, and sleep data to provide personalized health insights.</string>
+<key>NSHealthUpdateUsageDescription</key>
+<string>This app uses HealthKit to update your health data for better tracking.</string>
